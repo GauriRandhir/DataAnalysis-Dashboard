@@ -1,6 +1,7 @@
 # DataAnalysis-Dashboard
 This project is an Excel-based Data Analysis Dashboard created to analyze and visualize business data using Excel tools. It demonstrates my ability to clean data, analyze trends, and present insights in a clear, interactive dashboard format.
-# Dataset used - https://github.com/GauriRandhir/DataAnalysis-Dashboard/blob/main/Book1.xlsx 
+# Dataset used - 
+https://github.com/GauriRandhir/DataAnalysis-Dashboard/blob/main/Book1.xlsx 
 # Tools & Features Used
 Microsoft Excel
 Pivot Tables
