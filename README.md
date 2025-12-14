@@ -35,7 +35,7 @@ Analytical Thinking
 
 
 ## Dashboard Interaction
-< a href = "https://github.com/GauriRandhir/DataAnalysis-Dashboard/blob/main/Dashboard-Screenshot.jpg"> Dashboard Snapshot </a>
+<a href="https://github.com/GauriRandhir/DataAnalysis-Dashboard/blob/main/Dashboard-Screenshot.jpg">Dashboard Snapshot</a>
 
 ## Dashboard
 ![Dashboard-Screenshot](https://github.com/user-attachments/assets/2a5df8f7-f499-486f-9312-bfb3ee366d1a)
